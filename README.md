@@ -213,7 +213,7 @@ This repository includes templates for:
 - Deal tombstones
 - Appendix tables
 
-(You may upload sample .pptx files, images, or PDFs here.)
+![Pitchbook](https://github.com/adetonayusuf/Powerpoint-and-pitchdeck-presentations/blob/main/Pitchbook.pdf)
 
 ## My Professional Value
 
